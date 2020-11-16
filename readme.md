@@ -6,6 +6,6 @@ bread every week. Computers are part of my training. I write code to ask myself,
 which help me with what I do.
 
 
-You can learn more about my *algorithmic side* visiting [algorithmic Me](https://rvalla.github.io). Feel
+You can learn more about my *algorithmic side* visiting [algorithmic Me](https://rodrigovalla.gitlab.io). Feel
 yourself free to contact me by [mail](mailto:rodrigovalla@protonmail.ch) or reach me in
 [telegram](https://t.me/rvalla) or [mastodon](https://fosstodon.org/@rvalla).
